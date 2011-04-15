@@ -13,8 +13,8 @@ Github Commands
     git push -u origin master
 
 ###Commit and push local changes
-git commit -a -m '[message]'
-git push -u origin master
+    git commit -a -m '[message]'
+    git push -u origin master
 
 ###Status (modifications, etc.)
 git status
