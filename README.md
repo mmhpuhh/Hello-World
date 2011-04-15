@@ -17,7 +17,7 @@ Github Commands
     git push -u origin master
 
 ###Status (modifications, etc.)
-git status
+`git status`
 
     var rpc = new easyXDM.Rpc({
         remote: "http://path.to/provider/" // the path to the provider
